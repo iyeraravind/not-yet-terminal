@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: First Post Using Prose
 ---
 It should not be too difficult to type in such a nice text editing environment as Prose.
