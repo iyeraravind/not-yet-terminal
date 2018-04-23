@@ -1,6 +1,6 @@
 skin: default
 
 navigation_pages:
-  about.md
-  blog.md
+  - about.md
+  - blog.md
   
